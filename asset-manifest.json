@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sauda-tech/static/css/main.03583fd3.chunk.css",
+    "main.js": "/sauda-tech/static/js/main.f67e6e03.chunk.js",
+    "main.js.map": "/sauda-tech/static/js/main.f67e6e03.chunk.js.map",
+    "runtime-main.js": "/sauda-tech/static/js/runtime-main.e4b090c2.js",
+    "runtime-main.js.map": "/sauda-tech/static/js/runtime-main.e4b090c2.js.map",
+    "static/js/2.f42f9d5d.chunk.js": "/sauda-tech/static/js/2.f42f9d5d.chunk.js",
+    "static/js/2.f42f9d5d.chunk.js.map": "/sauda-tech/static/js/2.f42f9d5d.chunk.js.map",
+    "index.html": "/sauda-tech/index.html",
+    "precache-manifest.7991a61579d8de5b9468b60396201b68.js": "/sauda-tech/precache-manifest.7991a61579d8de5b9468b60396201b68.js",
+    "service-worker.js": "/sauda-tech/service-worker.js",
+    "static/css/main.03583fd3.chunk.css.map": "/sauda-tech/static/css/main.03583fd3.chunk.css.map",
+    "static/js/2.f42f9d5d.chunk.js.LICENSE.txt": "/sauda-tech/static/js/2.f42f9d5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4b090c2.js",
+    "static/js/2.f42f9d5d.chunk.js",
+    "static/css/main.03583fd3.chunk.css",
+    "static/js/main.f67e6e03.chunk.js"
+  ]
+}
