@@ -5,9 +5,73 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
+ }
+ .container{
+  margin-top:90px;
+} 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.navbar{
+  background-color:#e6c073;
+}
+.navbar-brand{
+  font-weight: 600;
+  border: 1px solid black;
+  padding:8px 8px;
+  /* border-radius: 10px; */
+}
+.tradeBadge{
+  height:30px;
+  width:110px;
+  background-color: #e2f3f5;
+  font-weight:500;
+  font-size: 15px;
+  padding:4px 8px;
+  border-radius: 5px;
+}
+
+
+.headings{
+ color: grey; 
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ letter-spacing:1px;
+}
+.values{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tradecard{
+  border: 1px solid grey;
+ padding: 5px 5px;
+}
+
+
+.form-check{
+  display:inline-block;
+  font-weight: 300;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.form-check-input{
+  cursor: pointer;
+}
+
+.heading{
+  text-decoration: underline;
+}
+
+@media only screen and (max-width: 600px) {
+  .heading {
+    font-size: 35px;
+  }
+}
+
+
+@media only screen and (max-width: 400px) {
+  .heading {
+    font-size: 30px;
+  }
 }
